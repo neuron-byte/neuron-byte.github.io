@@ -1,12 +1,8 @@
-github_users:
-  - torvalds
-  - alshedivat
+# github_users:
+#   - torvalds
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - neuron-byte/EVA
+  - neuron-byte/leviatan
+  - neuron-byte/MAGI
+  - neuron-byte/zinu
